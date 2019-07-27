@@ -1,0 +1,16 @@
+mugsy.config_form:
+  path: '/admin/config/services/mugsy'
+  defaults:
+    _form: '\Drupal\mugsy\Form\ConfigForm'
+    _title: 'ConfigForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+mugsy.api_key_controller_ShowKey:
+  path: '/mugsy/sharedkey'
+  defaults:
+    _controller: '\Drupal\mugsy\Controller\ApiKeyController::ShowKey'
+    _title: 'Mugsy Shared API Key'
+  requirements:
+    _permission: 'access content'

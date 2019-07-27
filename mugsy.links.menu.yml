@@ -1,0 +1,24 @@
+mugsy.brew:
+  title: 'Mugsy Brew!'
+  url: 'https://cloud.heymugsy.com/sys/userInt/listener.php?key=MySharedAPIKey'
+  description: 'Start Mugsy brew.'
+  #route_name: system.admin_config
+  parent: system.admin
+  #route_parameters: { key: 'MySharedAPIKey' }
+  menu_name: admin
+  weight: 100
+  options:
+    attributes:
+      target: _blank
+      class:
+        - mugsy-text-pink-red
+mugsy.config_form:
+  title: 'Mugsy settings'
+  route_name: mugsy.config_form
+  description: 'Configure Mugsy intergration.'
+  parent: system.admin_config_services
+  weight: 99
+  options:
+    attributes:
+      class:
+        - mugsy-text-pink-red

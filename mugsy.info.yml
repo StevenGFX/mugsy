@@ -1,0 +1,7 @@
+name: Mugsy
+type: module
+description: Mugsy intergration
+package: Custom
+core: 8.x
+libraries:
+  - mugsy/mugsy

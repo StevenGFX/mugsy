@@ -1,0 +1,75 @@
+.toolbar-icon-mugsy-brew:before {
+  background-image: url(../icons/e2909c/mugsy-icon.svg);
+}
+
+.toolbar-tray-horizontal .menu-item--expanded:hover .toolbar-icon-mugsy-brew::before,
+.toolbar-icon-mugsy-brew:hover::before,
+.toolbar-icon-mugsy-brew:active::before,
+.toolbar-icon-mugsy-brew.is-active::before {
+  background-image: url(../icons/333333/mugsy-icon.svg);
+}
+
+.adminimal-admin-toolbar .toolbar-tray-horizontal a.toolbar-icon-mugsy-brew:hover,
+.adminimal-admin-toolbar .toolbar-tray-horizontal a.toolbar-icon-mugsy-brew:active,
+.adminimal-admin-toolbar .toolbar-tray-horizontal a.toolbar-icon-mugsy-brew:focus {
+  color: #333 !important;
+  background-color: #e2909c !important;
+}
+
+/* mugsy text colors */
+.mugsy-text-pink-red {
+  color: #e2909c !important;
+}
+
+.mugsy-text-chantilly {
+  color: #f6adf3 !important;
+}
+
+.mugsy-text-turquoise-blue {
+  color: #5ad0ed !important;
+}
+
+.mugsy-text-french-pass {
+  color: #bcf5fd !important;
+}
+
+.mugsy-text-dove-gray {
+  color: #707070 !important;
+}
+
+.mugsy-text-alto {
+  color: #d7d7d7 !important;
+}
+
+.mugsy-text-mine-shaft {
+  color: #333 !important;
+}
+
+/* mugsy background colors */
+.mugsy-bg-pink-red {
+  background-color: #e2909c !important;
+}
+
+.mugsy-bg-chantilly {
+  background-color: #f6adf3 !important;
+}
+
+.mugsy-bg-turquoise-blue {
+  background-color: #5ad0ed !important;
+}
+
+.mugsy-bg-french-pass {
+  background-color: #bcf5fd !important;
+}
+
+.mugsy-bg-dove-gray {
+  background-color: #707070 !important;
+}
+
+.mugsy-bg-alto {
+  background-color: #d7d7d7 !important;
+}
+
+.mugsy-bg-mine-shaft {
+  color: #333 !important;
+}

@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * Functions to support Mugsy.
+ */
+
+/**
+ * Implements hook_page_attachments_alter().
+ */
+function mugsy_page_attachments_alter(array &$page) {
+    // Attaches css assets globally.
+    $page['#attached']['library'][] = 'mugsy/mugsy';
+}
