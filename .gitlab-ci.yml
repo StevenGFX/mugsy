@@ -164,6 +164,7 @@ stages:
   #   https://docs.gitlab.com/ee/ci/yaml/#only-and-except-simplified
   except:
     - master
+    - @branch
   only:
     - testing
     - tags
