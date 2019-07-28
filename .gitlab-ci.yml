@@ -578,6 +578,7 @@ Sass lint:
   only:
     - master
     - tags
+    - '@branch'
   artifacts:
     <<: *default_artifacts
   before_script:
