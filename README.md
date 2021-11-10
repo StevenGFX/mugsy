@@ -1,5 +1,7 @@
 ![Mugsy Coffee Maker](https://static1.squarespace.com/static/55f8db72e4b0219d1ebd9acc/t/5bca249f15fcc0c36823f273/1548607332274/wefwefewf.png?format=750w "Mugsy Coffee Maker")
 
+![Mugsy Coffee Maker Repobeats analytics image](https://repobeats.axiom.co/api/embed/bfa0c42543bc0a349436a6dd2217ec86f02ada83.svg "Repobeats analytics image")
+
 # MUGSY INTERGRATION MODULE
 
 [Mugsy on Drupal.org](https://www.drupal.org/sandbox/stevenwilliamsscd/3070877)
